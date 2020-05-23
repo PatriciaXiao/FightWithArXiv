@@ -39,4 +39,5 @@ It could be done on Overleaf, and then use the submit option again => this time 
 
 ## Error 4: not found family_i in .bbl
 
-I suspect that this was version issue. It happened for an old project I have, in 2016 (now it is 2019).
+I suspect that this was version issue. It happened for an old project I have, in 2016 ver (now it is 2019).
+
